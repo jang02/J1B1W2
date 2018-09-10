@@ -57,4 +57,4 @@ document.writeln('<br />Totaalprijs drinken: €' + totaldrinks.toFixed(2));
 
 var total = totaldrinks + totalpizzas
 document.writeln('<br />')
-document.writeln('<br />Totaalprijs: €' + total.toFixed())
+document.writeln('<br />Totaalprijs: €' + total.toFixed(2))
